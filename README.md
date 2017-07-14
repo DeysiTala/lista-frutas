@@ -6,7 +6,7 @@
   * Esta es la direccion que utilize para buscar como insertar una imagen en el html
   http://es.wikihow.com/insertar-im%C3%A1genes-con-HTML
 5. Esto es el codigo en javascript
-  ![Parte del codigo](C:\Users\Administrator\Desktop\codigo.jpg)
+  ![Parte del codigo](C:img/Users\Administrator\Desktop\codigo.jpg)
 
 Averigue como poner **color de fondo** al html
   * ![alt text](https://www.vitonica.com/tag/fruta "Logo Title Text 1")
